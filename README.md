@@ -7,4 +7,4 @@
 ![Some_Cat](img/ME2.jpg)
 
 
-[Bit](Bit.md)
+[Bit](bit.md)
