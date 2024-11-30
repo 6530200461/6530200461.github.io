@@ -18,8 +18,7 @@
   - สัญญาณอนาล็อก: ใช้แอมพลิจูดหรือความถี่ของคลื่นเพื่อแทนค่า 0 และ 1
   การแปลงข้อมูลระหว่างรูปแบบดิจิทัลและอนาล็อกและกลับกัน เกิดขึ้นที่เลเยอร์ 1 นี้ เพื่อให้เหมาะสมกับสื่อกลางที่ใช้ในการส่งข้อมูล
 
-> [Bit](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
-- https://www.isc2.org/certifications/cissp/cissp-student-glossary
+> [อ้างอิง](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
 
 ---
 
@@ -36,7 +35,7 @@
 ### Gemini
 - เลขฐานสอง หน่วยข้อมูลพื้นฐานในคอมพิวเตอร์และการสื่อสารดิจิทัล สามารถแทนค่าได้สองค่า: 0 หรือ 1 บิตเหล่านี้รวมกันเป็นหน่วยข้อมูลที่ใหญ่ขึ้น เช่น ไบต์ กิโลไบต์ เมกะไบต์ และอื่นๆ  
 
-> https://csrc.nist.gov/glossary/term/bit
+> [อ้างอิง](https://csrc.nist.gov/glossary/term/bit)
 
 ---
 
