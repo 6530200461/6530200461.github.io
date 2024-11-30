@@ -28,7 +28,7 @@
 
 ---
 
-## **NIST-CSRC**
+## **NIST CSRC**
 - **A binary digit having a value of 0 or 1.**
 
 ### **ChatGPT**
@@ -42,7 +42,7 @@
 - เลขฐานสอง หน่วยข้อมูลพื้นฐานในคอมพิวเตอร์และการสื่อสารดิจิทัล สามารถแทนค่าได้สองค่า: **0** หรือ **1**  
   บิตเหล่านี้รวมกันเป็นหน่วยข้อมูลที่ใหญ่ขึ้น เช่น **ไบต์ กิโลไบต์ เมกะไบต์** และอื่นๆ  
 
-> **[อ้างอิงจาก NIST- CSRC](https://csrc.nist.gov/glossary/term/bit)**
+> **[อ้างอิงจาก NIST CSRC](https://csrc.nist.gov/glossary/term/bit)**
 
 ---
 
