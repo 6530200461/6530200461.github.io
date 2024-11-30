@@ -2,3 +2,5 @@
 
 - Wilit Kronkulsri
   - Hai
+
+![Some_Cat] (img/Cat.jpg)
