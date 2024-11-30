@@ -2,7 +2,7 @@
 
 ---
 
-## **CISSP Glossary**
+## **CISSP Glossary - Student Guide**
 - **Most essential representation of data** (zero or one) at Layer 1 of the Open Systems Interconnection (OSI) model.
 
 ### **ChatGPT**
@@ -28,7 +28,7 @@
 
 ---
 
-## **NIST**
+## **NIST CSRC**
 - **A binary digit having a value of 0 or 1.**
 
 ### **ChatGPT**
