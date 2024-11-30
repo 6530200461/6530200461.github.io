@@ -1,10 +1,20 @@
-# 6530200461.github.io
+# **6530200461.github.io**
 
-- Wilit Kronkulsri
-  - วิทยาการคอมพิวเตอร์
-  - ปี 3
+## **Wilit Kronkulsri**  
+- **สาขา:** วิทยาการคอมพิวเตอร์  
+- **ปีการศึกษา:** ปี 3  
 
-![Some_Cat](img/ME2.jpg)
+---
+
+### **Profile Picture**  
+![Some Cat](img/ME2.jpg)  
+
+---
+
+## **[Bit](bit.md)**  
+เรียนรู้เพิ่มเติมเกี่ยวกับ **Bit** ในหน้าถัดไป: [อ่านเพิ่มเติม](bit.md)  
 
 
-# [Bit](bit.md)
+
+
+
