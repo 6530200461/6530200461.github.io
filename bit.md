@@ -1,5 +1,5 @@
 # Bit
-
+---
 ## CISSP Glossary
 
 - Most essential representation of data (zero or one) at Layer 1 of the Open Systems Interconnection (OSI) model
