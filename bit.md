@@ -22,7 +22,7 @@
 
 ---
 
-## NIST
+## **NIST**
 
 - A binary digit having a value of 0 or 1.
 
