@@ -24,7 +24,7 @@
 
 การแปลงข้อมูลระหว่างรูปแบบดิจิทัลและอนาล็อกและกลับกัน เกิดขึ้นที่เลเยอร์ 1 นี้ เพื่อให้เหมาะสมกับสื่อกลางที่ใช้ในการส่งข้อมูล.
 
-> **[อ้างอิงจาก CISSP Glossary](https://www.isc2.org/certifications/cissp/cissp-student-glossary)**
+> **[อ้างอิงจาก CISSP Glossary - Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary)**
 
 ---
 
