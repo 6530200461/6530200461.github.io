@@ -3,4 +3,4 @@
 - Wilit Kronkulsri
   - Hai
 
-![Some_Cat] (img/Cat.jpg)
+![Some_Cat](img/Cat.jpg)
