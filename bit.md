@@ -1,4 +1,4 @@
-**Bit**
+# **Bit**
 
 ## CISSP Glossary
 
