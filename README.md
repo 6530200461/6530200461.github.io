@@ -5,3 +5,6 @@
   - ปี 3
 
 ![Some_Cat](img/ME2.jpg)
+
+
+![Bit](Bit.mb)
