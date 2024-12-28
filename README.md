@@ -13,3 +13,4 @@
 
 ## **[Bit](bit.md)** 
 ## **[e-card](e-card.md)**
+## **[completeness](completeness.md)**
