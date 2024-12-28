@@ -1,4 +1,4 @@
-# **Data Quality**
+# **Completeness**
 
 ### **Definition**
 - **Completeness** : data that is available to extract maximum value Ensure that information is comprehensive,
