@@ -4,6 +4,7 @@
 - **Completeness** : data that is available to extract maximum value Ensure that information is comprehensive,
   accessible, and available for employees. With inconsistent data or inaccurate data, organizations would not be able to use the information to their fullest potential.
 
+> **[อ้างอิงจาก starburst](https://www.starburst.io/data-glossary/data-quality/)**
 ---
 
 ### **ChatGPT**
@@ -17,7 +18,7 @@
 
 ---
 
-### **MySelf**
+### **Summary**
 - **Completeness** คือ ความสมบูรณ์ข้อมูลที่มีอยู่เพื่อแยกมูลค่าที่สูงสุด และมีความครอบคลุม ด้วยข้อมูลที่ไม่สอดคล้องกันหรือข้อมูลที่ไม่ถูกต้อง จะไม่สามารถใช้ข้อมูลได้อย่างเต็มที่
 
 ### **Sample**
@@ -26,4 +27,4 @@
 -  ข้อมูลของผู้ป่วยมีครบ เช่น ชื่อ อายุ โรคประจำตัว ประวัติการรักษา และยาที่ใช้
 -  รายงานการเงินมีข้อมูลครบ เช่น รายรับ รายจ่าย หนี้สิน และทรัพย์สิน
 
-> **[อ้างอิงจาก starburst](https://www.starburst.io/data-glossary/data-quality/)**
+
