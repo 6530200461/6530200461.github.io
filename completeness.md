@@ -3,7 +3,8 @@
 ### **Definition**
 - Ensure that information is comprehensive, accessible, and available for employees. With inconsistent data or inaccurate data, organizations would not be able to use the information to their fullest potential.
 
-> **[อ้างอิงจาก starburst](https://www.starburst.io/data-glossary/data-quality/)**
+Source of definition
+> **[starburst](https://www.starburst.io/data-glossary/data-quality/)**
 ---
 
 ### **ChatGPT**
