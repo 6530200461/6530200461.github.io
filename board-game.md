@@ -1,11 +1,11 @@
-**🔙[HOME](README.md)**
+![image](https://github.com/user-attachments/assets/93ceb7a0-7325-4a36-910d-b6ba15943c6f)**🔙[HOME](README.md)**
 # Cyber Board Game By SiR Dear ZDark 
 
 ##### สมาชิกคนอื่นในกลุ่ม
-###### - [Sir. Nattawut Supapat]()
+###### - [Sir. Nattawut Supapat](https://mizeto.github.io/board-game)
 ###### - [Sir. Ratthakit Kotcharin](https://6530200401.github.io/board-game)
-###### - [Sir. KRITTIPHON YOONAITHAM]()
-###### - [Sir. PICHAYA SOISING]()
+###### - [Sir. Krittiphon Yoonaitham](https://6530250158.github.io/board-game)
+###### - [Sir. Pichaya Soising](https://6530250158.github.io/board-game)
 
 ## วันที่ทำกิจกรรม
 **วันพฤหัสบดี ที่ 9 มกราคม พ.ศ. 2568 ณ หอพักนิสิต มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา**
