@@ -3,7 +3,7 @@
 
 ##### สมาชิกคนอื่นในกลุ่ม
 ###### - [Sir. Nattawut Supapat]()
-###### - [Sir. Ratthakit Kotcharin]()
+###### - [Sir. Ratthakit Kotcharin](https://6530200401.github.io/board-game)
 ###### - [Sir. KRITTIPHON YOONAITHAM]()
 ###### - [Sir. PICHAYA SOISING]()
 
