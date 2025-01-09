@@ -4,7 +4,7 @@
 ##### สมาชิกคนอื่นในกลุ่ม
 ###### - [Sir. Nattawut Supapat](https://mizeto.github.io/board-game)
 ###### - [Sir. Ratthakit Kotcharin](https://6530200401.github.io/board-game)
-###### - [Sir. Krittiphon Yoonaitham](https://6530250158.github.io/board-game)
+###### - [Sir. Krittiphon Yoonaitham](https://1dev04.github.io/board-game)
 ###### - [Sir. Pichaya Soising](https://6530250158.github.io/board-game)
 
 ## วันที่ทำกิจกรรม
