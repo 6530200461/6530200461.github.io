@@ -3,7 +3,7 @@
 
 ##### สมาชิกคนอื่นในกลุ่ม
 ###### - [Sir. Nattawut Supapat]()
-###### - [Sir. Wilit Kronkulsri]()
+###### - [Sir. Ratthakit Kotcharin]()
 ###### - [Sir. KRITTIPHON YOONAITHAM]()
 ###### - [Sir. PICHAYA SOISING]()
 
