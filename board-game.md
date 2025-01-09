@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/93ceb7a0-7325-4a36-910d-b6ba15943c6f)**🔙[HOME](README.md)**
+**🔙[HOME](README.md)**
 # Cyber Board Game By SiR Dear ZDark 
 
 ##### สมาชิกคนอื่นในกลุ่ม
