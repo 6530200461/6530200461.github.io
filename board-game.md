@@ -30,12 +30,12 @@
 
 
 ## ภาพกิจกรรม
-![GamePlay1](/MyIMG/GamePlay1.png)
-![GamePlay2](/MyIMG/GamePlay2.png)
-![Group_photo](/MyIMG/BoardGame_Group_photo.jpg)
+![GamePlay1](/img/GamePlay1.png)
+![GamePlay2](/img/GamePlay2.png)
+![Group_photo](/img/BoardGame_Group_photo.jpg)
 
 ## วิดีโอกิจกรรม
-[![Cyber Board Game](/MyIMG/Cyber_Board_Game.png)](https://youtu.be/dNZV-51a_OU "Cyber Board Game")
+[![Cyber Board Game](/img/Cyber_Board_Game.png)](https://youtu.be/dNZV-51a_OU "Cyber Board Game")
 
 ## ปล.
 ###### ทางกลุ่มผู้จัดทำได้ขออนุญาตน้องๆแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media
