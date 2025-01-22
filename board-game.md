@@ -41,7 +41,7 @@
 ###### ทางกลุ่มผู้จัดทำได้ขออนุญาตน้องๆแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media
 
 ##### สมาชิกคนอื่นในกลุ่ม
-###### - [Sir. Ratthakit kotcharin](https://6530200401.github.io/board-game)
 ###### - [Sir. Nattawut Supapat](https://mizeto.github.io/board-game)
+###### - [Sir. Ratthakit kotcharin](https://6530200401.github.io/board-game)
 ###### - [Sir. Krittiphon Yoonaitham](https://1Dev04.github.io/board-game)
 ###### - [Sir. Pichaya Soising](https://6530250158.github.io/board-game)
