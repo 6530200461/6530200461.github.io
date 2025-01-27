@@ -1,7 +1,11 @@
+### **Security Control**
+---
+
 ![Device](/img/)
 
+---
 
-## **เครื่องรูทบัตรเครดิต**
+### **เครื่องรูทบัตรเครดิต**
 - **สถานที่: ซุปเปอร์มาร์เก็ต**
 - Control Function: Preventative
 - Type of SecurityControl: Physical Control
