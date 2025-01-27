@@ -2,8 +2,7 @@
 
 ---
 
-![P1](img/IMG_3532.jpeg)
-![P2](img/IMG_3519.jpeg)
+![P1](img/Anit-cheat.PNG)
 
 ---
 
