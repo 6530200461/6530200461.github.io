@@ -1,4 +1,4 @@
-# **V1.8 Data Protection and Privacy Architecture**
+# **V1.8.1 Data Protection and Privacy Architecture**
 
 ### **Description**
 - Verify that all sensitive data is identified and classified into protection levels.
